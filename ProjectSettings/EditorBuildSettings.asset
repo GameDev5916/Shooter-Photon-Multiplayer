@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2DShooter/Scenes/Launcher.unity
+    guid: 9141fe11c219a4897b51661ccd929146
+  - enabled: 1
+    path: Assets/2DShooter/Scenes/ForestLevel.unity
+    guid: f3a62705acc7445e6b307431b9b02206
+  m_configObjects: {}
