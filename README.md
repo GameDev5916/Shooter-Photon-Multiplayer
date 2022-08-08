@@ -1,4 +1,4 @@
-# 2D Shooter Multiplayer Photon.
+# Shooter Multiplayer Photon.
 I have made a small, work in progress, multiplayer prototype to learn the basics of Photon engine on Unity.
 
 # GamePlay.
